@@ -1,4 +1,4 @@
-# workflowy-modern-dark v2024.06.1
+# workflowy-modern-dark v2024.06.0
 A modern dark theme for Workflowy.
 
 ```
